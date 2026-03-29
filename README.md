@@ -17,3 +17,6 @@ Feedback hints (higher or lower)
 Attempt counter
 
 Fun and interactive design
+you can see the project via this link
+
+https://qytenex-randomnumbergame.netlify.app/
